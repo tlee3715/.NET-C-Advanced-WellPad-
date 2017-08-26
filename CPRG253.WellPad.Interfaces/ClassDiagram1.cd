@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="CPRG253.WellPad.Interfaces.IWellPad">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAgAAACA=</HashCode>
+      <FileName>IWellPad.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CPRG253.WellPad.Interfaces.IInjectionWell">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAA=</HashCode>
+      <FileName>IInjectionWell.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CPRG253.WellPad.Interfaces.IProductionWell">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>IProductionWell.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="CPRG253.WellPad.Interfaces.WaterType" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAAgCAAAAAA=</HashCode>
+      <FileName>IInjectionWell.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

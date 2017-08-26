@@ -1,0 +1,5 @@
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-253\CPRG253.FinalAssignment.Toan_Le\CPRG253.FinalProject.WellPad\CPRG253.WellPad.Interfaces\bin\Debug\CPRG253.WellPad.Interfaces.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-253\CPRG253.FinalAssignment.Toan_Le\CPRG253.FinalProject.WellPad\CPRG253.WellPad.Interfaces\bin\Debug\CPRG253.WellPad.Interfaces.pdb
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-253\CPRG253.FinalAssignment.Toan_Le\CPRG253.FinalProject.WellPad\CPRG253.WellPad.Interfaces\obj\Debug\CPRG253.WellPad.Interfaces.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-253\CPRG253.FinalAssignment.Toan_Le\CPRG253.FinalProject.WellPad\CPRG253.WellPad.Interfaces\obj\Debug\CPRG253.WellPad.Interfaces.pdb
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-253\CPRG253.FinalAssignment.Toan_Le\CPRG253.FinalProject.WellPad\CPRG253.WellPad.Interfaces\obj\Debug\CPRG253.WellPad.Interfaces.csprojResolveAssemblyReference.cache
